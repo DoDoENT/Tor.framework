@@ -1150,6 +1150,7 @@
 			buildSettings = {
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PRODUCT_NAME = liblzma;
+				SDKROOT = iphoneos;
 			};
 			name = Release;
 		};
@@ -1426,6 +1427,7 @@
 			buildSettings = {
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PRODUCT_NAME = tor;
+				SDKROOT = iphoneos;
 			};
 			name = Release;
 		};
@@ -1443,6 +1445,7 @@
 			buildSettings = {
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PRODUCT_NAME = libevent;
+				SDKROOT = iphoneos;
 			};
 			name = Release;
 		};
@@ -1460,6 +1463,7 @@
 			buildSettings = {
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PRODUCT_NAME = openssl;
+				SDKROOT = iphoneos;
 			};
 			name = Release;
 		};
